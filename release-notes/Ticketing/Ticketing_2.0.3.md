@@ -6,6 +6,13 @@ uid: Ticketing_2.0.3
 
 ## Prerequisites
 
+> [!IMPORTANT]
+> The user installing Ticketing should have permission to:
+>
+> - Add Elements under the Root View (Permissions:Rights General => Elements => Add / Permissions:Views => Root View enabled)
+> - Edit hyperlinks (Permissions:Rights General => Alarms => Allow to add or update hyperlinks)
+> - Add and Edit Alarm Properties (Permissions:Rights General => Alarms => Properties => Add/Edit)
+
 > [!NOTE]
 > This version requires:
 >
